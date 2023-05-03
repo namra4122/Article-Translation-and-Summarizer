@@ -1,0 +1,2 @@
+# TextSummarizer
+The project preprocessed the extracted data by separating the titles and content of the news articles and used the Google Translate API, through the googletrans library, to translate the content from several languages to English. Additionally, the project used a BERT model for summarization, contextualizing input text, finding key sentences after encoding, and ranking them based on relevancy scores.
